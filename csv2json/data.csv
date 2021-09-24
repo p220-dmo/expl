@@ -1,0 +1,24 @@
+region_id,sales_city,sales_state_province,sales_district,sales_region,sales_country,sales_district_id
+0,None,None,No District,No Region,No Country,0
+1,San Francisco,CA,San Francisco,Central West,USA,123
+2,Mexico City,DF,Mexico City,Mexico Central,Mexico,118
+3,Los Angeles,CA,Los Angeles,South West,USA,116
+4,Guadalajara,Jalisco,Guadalajara,Mexico West,Mexico,114
+5,Vancouver,BC,Vancouver,Canada West,Canada,128
+6,Victoria,BC,Victoria,Canada West,Canada,129
+7,San Diego,CA,San Diego,South West,USA,133
+8,Coronado,CA,San Diego,South West,USA,133
+9,National City,CA,San Diego,South West,USA,133
+10,Lincoln Acres,CA,San Diego,South West,USA,133
+11,La Mesa,CA,San Diego,South West,USA,133
+12,Lemon Grove,CA,San Diego,South West,USA,133
+13,Chula Vista,CA,San Diego,South West,USA,133
+14,Imperial Beach,CA,San Diego,South West,USA,133
+15,Spring Valley,CA,San Diego,South West,USA,133
+16,El Cajon,CA,San Diego,South West,USA,133
+17,Grossmont,CA,San Diego,South West,USA,133
+18,Seattle,WA,Seattle,North West,USA,124
+19,Redmond,WA,Seattle,North West,USA,124
+20,Ballard,WA,Seattle,North West,USA,124
+21,Issaquah,WA,Seattle,North West,USA,124
+22,Portland,OR,Portland,North West,USA,120
